@@ -1,0 +1,39 @@
+{
+  "companies": [
+    {
+      "company": "Accenture Philippines Inc.",
+      "title": "Software Engineer Intern",
+      "duration": "March 2023 - Present",
+      "tasks": [
+        "Assisted in designing web applications to process, analyze, and visualize data, including supporting the development of new features for enhanced data representation.",
+        "Collaborated with senior developers across various work-streams to maintain code quality and best practices.",
+        "Contributed to a mentorship program by learning from and providing feedback to junior and entry-level engineers.",
+        "Coordinated with back-end developers, front-end developers, and quality assurance testers to ensure smooth project execution.",
+        "Maximized applications efficiency, data quality, scope, operability, and flexibility.",
+        "Aimed to improve applications' efficiency, data quality, and flexibility while building responsive websites using HTML5, JavaScript, ReactJS, and CSS."
+      ]
+    },
+    {
+      "company": "SmartGroup Enterprise Inc.",
+      "title": "Software Engineer Intern",
+      "duration": "May 2022 - Feb. 2023",
+      "tasks": [
+        "Participated in developing full-stack applications using contemporary technologies and frameworks.",
+        "Assisted in debugging applications, web pages, and product features to enhance performance and functionality.",
+        "Supported the identification and resolution of web development issues reported by clients.",
+        "Assisted in deploying applications to cloud-based environments and managing both relational and document databases.",
+        "Contributed to the development and maintenance of web-based software under the guidance of experienced developers."
+      ]
+    },
+    {
+      "company": "Business Machine Corporation",
+      "title": "Technical Support Intern",
+      "duration": "April 2021 - March 2022",
+      "tasks": [
+        "Assisted in the installation of equipment on-site.",
+        "Supported the troubleshooting and repair of defective or broken equipment.",
+        "Provided basic instructions to customers on how to use their equipment effectively."
+      ]
+    }
+  ]
+}
