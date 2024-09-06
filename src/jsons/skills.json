@@ -1,24 +1,25 @@
 {
   "techs_1": [
-    { "name": "JavaScript", "rate": "70" },
-    { "name": "ReactJS", "rate": "65" },
-    { "name": "NodeJS", "rate": "60" },
-    { "name": "HTML5", "rate": "65" },
-    { "name": "CSS3", "rate": "65" },
-    { "name": "Rest API", "rate": "55" },
-    { "name": "Mysql", "rate": "55" },
-    { "name": "PHP", "rate": "52.5" },
-    { "name": "Dart", "rate": "59.5" }
+    { "name": "JavaScript", "rate": "10" },
+    { "name": "ReactJS", "rate": "10" },
+    { "name": "NodeJS", "rate": "10" },
+    { "name": "HTML5", "rate": "10" },
+    { "name": "CSS3", "rate": "10" },
+    { "name": "Rest API", "rate": "10" },
+    { "name": "Mysql", "rate": "10" },
+    { "name": "PHP", "rate": "10" },
+    { "name": "Dart", "rate": "10" },
+    { "name": "Blade", "rate": "10" }
   ],
   "techs_2": [
-    { "name": "AWS Lambda", "rate": "60" },
-    { "name": "AWS Cloudfront", "rate": "60" },
-    { "name": "AWS Codecommit", "rate": "70" },
-    { "name": "AWS API Gateway", "rate": "60" },
-    { "name": "AWS S3 Bucket", "rate": "60" },
-    { "name": "AWS DynamoDB", "rate": "55" },
-    { "name": "AWS Secrets Manager", "rate": "65" },
-    { "name": "Agile Methodology", "rate": "70" },
-    { "name": "Continuous Integration", "rate": "65" }
+    { "name": "AWS Lambda", "rate": "0" },
+    { "name": "AWS Cloudfront", "rate": "0" },
+    { "name": "AWS Codecommit", "rate": "0" },
+    { "name": "AWS API Gateway", "rate": "0" },
+    { "name": "AWS S3 Bucket", "rate": "0" },
+    { "name": "AWS DynamoDB", "rate": "0" },
+    { "name": "AWS Secrets Manager", "rate": "0" },
+    { "name": "Agile Methodology", "rate": "0" },
+    { "name": "Continuous Integration", "rate": "0" }
   ]
 }

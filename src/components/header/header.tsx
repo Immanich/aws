@@ -7,7 +7,7 @@ import Navagition from 'components/nav';
 import { NAME } from 'constants/common';
 
 // Assets
-import Profile from 'assets/img/bday.jpg';
+import Profile from 'assets/img/profile.jpg';
 
 // Jsons
 import SocialMedias from 'jsons/social-medias.json';
